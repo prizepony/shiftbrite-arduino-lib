@@ -1,8 +1,7 @@
 /***********************************
 ***  ShiftBrite Arduino Library  ***
 ***  by Rory Nugent				 ***
-***  rory@prize-pony.com		 ***
-***  http://prize-pony.com		 ***
+***  http://prizepony.us		 ***
 ***  v01 - first official build  ***
 ***  last updated 09/21/2010	 ***
 ***********************************/
