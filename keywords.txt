@@ -12,12 +12,12 @@ ShiftBrite	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-init		KEYWORD2
-set		KEYWORD2
-setAll          KEYWORD2
-update		KEYWORD2
-clear		KEYWORD2
-length          KEYWORD2
+init	KEYWORD2
+set	KEYWORD2
+setAll	KEYWORD2
+update	KEYWORD2
+clear	KEYWORD2
+length	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
@@ -29,4 +29,4 @@ shiftbrite	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-NUM_LEDS        LITERAL1
+NUM_LEDS	LITERAL1
